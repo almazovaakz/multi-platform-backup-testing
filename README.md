@@ -13,3 +13,4 @@ It demonstrates strong QA skills applicable to real-world hybrid environments.
 - Python, Selenium, Postman
 - Linux, Windows 10
 - Git, Excel, Markdown
+
