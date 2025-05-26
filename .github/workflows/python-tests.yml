@@ -24,6 +24,6 @@ jobs:
 
       - name: Run tests
         run: |
-          cd automation-testing/tests
+          cd automation-testing/
           python test_ui_backup.py
 
